@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "寄り酔い",
+  "base_artist": "和ぬか",
+  "createdAt": "2025-12-01T10:12:24.097709Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "寄り酔い",
+      "artist": "和ぬか",
+      "has_synced": true,
+      "path": "select/01_寄り酔い_和ぬか.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "寄り酔い - Tipsy",
+      "artist": "Wanuka",
+      "has_synced": true,
+      "path": "select/02_寄り酔い_-_Tipsy_Wanuka.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "寄り酔い",
+      "artist": "和ぬか",
+      "has_synced": true,
+      "path": "select/03_寄り酔い_和ぬか.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "寄り酔い",
+      "artist": "和ぬか",
+      "has_synced": true,
+      "path": "select/04_寄り酔い_和ぬか.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "寄り酔い - 羽生まゐご Remix",
+      "artist": "和ぬか",
+      "has_synced": true,
+      "path": "select/05_寄り酔い_-_羽生まゐご_Remix_和ぬか.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "寄り酔い／和ぬか【Music Video】",
+      "artist": "和ぬか",
+      "has_synced": true,
+      "path": "select/06_寄り酔い_和ぬか【Music_Video】_和ぬか.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "寄り酔い - GeG Remix",
+      "artist": "和ぬか",
+      "has_synced": true,
+      "path": "select/07_寄り酔い_-_GeG_Remix_和ぬか.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "寄り酔い",
+      "artist": "和ぬか",
+      "has_synced": false,
+      "path": "select/pl_01_寄り酔い_和ぬか.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "寄り酔い",
+      "artist": "和ぬか",
+      "has_synced": false,
+      "path": "select/pl_02_寄り酔い_和ぬか.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "寄り酔い (GeG Remix)",
+      "artist": "和ぬか",
+      "has_synced": false,
+      "path": "select/pl_03_寄り酔い_(GeG_Remix)_和ぬか.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "寄り酔い夜",
+      "artist": "和ぬか",
+      "has_synced": false,
+      "path": "select/pl_04_寄り酔い夜_和ぬか.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "寄り酔い",
+      "artist": "和ぬか",
+      "has_synced": false,
+      "path": "select/pl_05_寄り酔い_和ぬか.txt"
+    }
+  ]
+}
